@@ -1,0 +1,163 @@
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  font-family: 'IM Fell English', serif;
+  margin: 0;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+/* 16px = 100% = 1em */
+h1 {
+  color: #66BFBF;
+  font-family: 'Schoolbell', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Sono', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Sono', sans-serif;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 80px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'IM Fell English', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding: 50px 0 20px
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.challenge-pic {
+  width: 250px;
+  float: right;
+  margin-left: 40px;
+}
+
+.footer {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: 'IM Fell English', serif;
+  text-decoration: none;
+}
+
+.intro {
+  color: #40514E;
+  font-size:1.2rem;
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  background-color: #FAF7F0;
+  position: relative;
+  padding: 100px 0
+}
+
+.monkey-pic {
+  width: 250px;
+  float: left;
+  margin-right: 40px
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-pic {
+  height: 350px;
+}
+
+.ski-pic {
+  width: 250px;
+  float: left;
+  margin-right: 40px;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-row-2 {
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
